@@ -7,12 +7,12 @@ service_description:
 cse:
   service:
     registry:
-      address: https://cse.cn-north-1.myhuaweicloud.com
+      address: https://cse.cn-north-4.myhuaweicloud.com
       instance:
         watch: false
   config:
     client:
-      serverUri: https://cse.cn-north-1.myhuaweicloud.com
+      serverUri: https://cse.cn-north-4.myhuaweicloud.com
       refreshMode: 1
       refresh_interval: 5000
   #monitor:
@@ -21,8 +21,8 @@ cse:
   rest:
     address: 0.0.0.0:8080
   #When a local project is deployed as a container outside a cluster, you need to delete all monitor and credentials comments and configure the AK/SK.
-  #credentials:
-    #accessKey: ak
-    #secretKey: sk
-    #akskCustomCipher: default
-    #project: cn-north-1
+  credentials:
+    accessKey: 5BIHOL5HOLRGYCUGYUYP
+    secretKey: z82G349SSkGnhFZeZrOHWXAfPOOHDuUP7Boer4Hg
+    akskCustomCipher: default
+    project: cn-north-4
