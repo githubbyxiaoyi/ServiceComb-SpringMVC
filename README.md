@@ -15,7 +15,7 @@ This sample includes:
 * pom.xml - this file is the Maven Project Object Model for the microservice
 * src/main - this directory contains your Java service source files
 * src/test - this directory contains your Java service unit test files
-a
+a45566
 ## Getting Started
 
 Clone your code repository and start developing your application on IDE of your choice
