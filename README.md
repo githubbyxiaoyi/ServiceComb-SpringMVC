@@ -8,7 +8,7 @@ This sample code helps get you started with a simple Java CSE microservice
 deployed by ServiceStage Container App to a CCE Cluster.
 
 This sample includes:
-
+saaaaaaaaaaaaaaaaaaaa
 * README.md
 * LICENSE
 * Dockerfile
