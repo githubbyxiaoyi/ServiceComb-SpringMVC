@@ -3,7 +3,7 @@
 | Language | Framework | Platform
 | -------- | -------- |--------|
 | Java | CSE Spring MVC | ServiceStage Container, CCE Cluster|
-
+2022
 This sample code helps get you started with a simple Java CSE microservice
 deployed by ServiceStage Container App to a CCE Cluster.
 
